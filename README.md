@@ -1,2 +1,3 @@
 # leetcode-all
-This repository contains leetcode practice questions.
+
+This repository contains Leetcode practice problems
